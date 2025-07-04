@@ -1,4 +1,4 @@
-# 👩‍💻 Keerthi Mashetty
+
 
 👋 Hey there! I'm Keerthi — a passionate **Data Analyst** with a solid foundation in **Data Science and Machine Learning**, and a love for uncovering the hidden stories behind numbers.
 
